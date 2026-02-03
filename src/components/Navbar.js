@@ -15,7 +15,7 @@ function Navbar() {
         <div className="flex items-center space-x-4">
           {/* ✅ Download CV Arrow (always visible) */}
           <a
-            href="https://www.overleaf.com/download/project/6960ac514ce186cb1df03fe0/build/19c21dee194-67a3739c6155f757/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-c3d-b-f-6ltk&enable_pdf_caching=true&popupDownload=true"
+            href="https://www.overleaf.com/download/project/6960ac514ce186cb1df03fe0/build/19c21ee65c5-59f54fa111e131ff/output/output.pdf?compileGroup=standard&popupDownload=true&clsiserverid=clsi-pre-emp-c3d-c-f-bw97"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-600 hover:text-blue-800"
