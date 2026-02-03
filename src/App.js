@@ -2,6 +2,7 @@
 import React, { useEffect } from "react";
 
 // Import your custom components
+import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";       // Hero section (profile + intro)
 import Skills from "./components/Skills";   // Skills section (MERN stack)
 import Projects from "./components/Projects"; // Projects section (GitHub + Live Demo)
@@ -33,6 +34,7 @@ function App() {
 
       {/* Footer at the bottom */}
       <Footer />
+      <Navbar/>]
     </div>
   );
 }

@@ -62,6 +62,15 @@ function Hero() {
         >
           Contact Me
         </a>
+
+        <a
+          href="/Waqas_Resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="px-6 py-2 bg-green-600 text-white rounded-lg shadow hover:bg-green-700 transition"
+        >
+          View CV
+        </a>
       </div>
     </section>
   );
